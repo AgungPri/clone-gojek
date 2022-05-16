@@ -1,0 +1,12 @@
+{
+  "name": "testcode",
+  "version": "1",
+  "main": "index.js",
+  "script":{
+"start":"nodemon server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
