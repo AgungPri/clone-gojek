@@ -29,7 +29,9 @@ export default class App extends Component {
               <Image source={require('./assets/icon/gopay.png')} />
               <Text style={{ color: 'white', fontSize: 17, fontWeight: 'bold' }}>Rp 50.000</Text>
             </View>
-            <View></View>
+            <View>
+              <Text>Git</Text>
+            </View>
           </View>
         </View>
         <View style={{ height: 54, flexDirection: 'row', backgroundColor: 'white' }}>
